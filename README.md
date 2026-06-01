@@ -31,12 +31,12 @@ This task has practical applications in healthcare analytics, disease prediction
 
 <img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/b2a3a883-d3a1-4d3b-8c1a-73933ad5d503" />
 
-<img width="924" height="476" alt="Image" src="https://github.com/user-attachments/assets/872bfa00-15c3-4463-82a1-3b41425ad566" />
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/81623fc0-768f-4ff5-8611-5126b4f8a0af" />
 
-<img width="923" height="470" alt="Image" src="https://github.com/user-attachments/assets/adc87f49-d810-43f6-9d45-4ac89de3a07a" />
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/e589902e-6842-4e6c-a3dd-0b2746719d87" />
 
-<img width="923" height="472" alt="Image" src="https://github.com/user-attachments/assets/570507b0-977a-4d3f-9de8-96a3e30e3411" />
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/1ce3e5e8-2883-4662-9bd0-581a7da163fa" />
 
-<img width="926" height="425" alt="Image" src="https://github.com/user-attachments/assets/9c98b8a6-4d54-468b-aaca-6ba893ddb8a5" />
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/4290f7bd-dcbc-453b-8779-b7769a304cdb" />
 
-<img width="923" height="398" alt="Image" src="https://github.com/user-attachments/assets/e7b66672-baad-424e-948c-94f3b6375996" />
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/e197c71a-6df9-4797-9dff-6452007eb1e9" />
