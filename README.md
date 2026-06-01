@@ -28,3 +28,15 @@ The final stage was data loading, where the processed dataset was exported and s
 This task has practical applications in healthcare analytics, disease prediction systems, medical decision-support tools, and machine learning projects that rely on symptom-based datasets. By creating a structured and cleaned dataset, the pipeline establishes a strong foundation for building predictive models, generating insights, and supporting data-driven healthcare solutions. Overall, the task demonstrated the importance of data pipeline development in converting raw data into a reliable and usable resource for advanced analytical applications.
 
 *OUTPUTS*:
+
+<img width="2560" height="1344" alt="Image" src="https://github.com/user-attachments/assets/b2a3a883-d3a1-4d3b-8c1a-73933ad5d503" />
+
+<img width="924" height="476" alt="Image" src="https://github.com/user-attachments/assets/872bfa00-15c3-4463-82a1-3b41425ad566" />
+
+<img width="923" height="470" alt="Image" src="https://github.com/user-attachments/assets/adc87f49-d810-43f6-9d45-4ac89de3a07a" />
+
+<img width="923" height="472" alt="Image" src="https://github.com/user-attachments/assets/570507b0-977a-4d3f-9de8-96a3e30e3411" />
+
+<img width="926" height="425" alt="Image" src="https://github.com/user-attachments/assets/9c98b8a6-4d54-468b-aaca-6ba893ddb8a5" />
+
+<img width="923" height="398" alt="Image" src="https://github.com/user-attachments/assets/e7b66672-baad-424e-948c-94f3b6375996" />
